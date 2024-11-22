@@ -1,0 +1,281 @@
+[{
+    "_id": 63,
+    "cant_sedes": 8,
+    "nombre": "El Rincon Oculto",
+    "presupuesto": "Medio",
+    "direccion": [
+        {
+            "ciudad": "Medellin",
+            "codigo_postal": 18425,
+            "direccion": "Calle 85 con carrera 124",
+            "telefono": "3246904"
+        }
+    ]
+  },
+  {
+    "_id": 64,
+    "cant_sedes": 9,
+    "nombre": "La Taberna del Sol",
+    "presupuesto": "Alto",
+    "direccion": [
+        {
+            "ciudad": "Bogota",
+            "codigo_postal": 22537,
+            "direccion": "Calle 94 con carrera 88",
+            "telefono": "7530125"
+        }
+    ]
+  },
+  {
+    "_id": 65,
+    "cant_sedes": 6,
+    "nombre": "Luz de Medianoche",
+    "presupuesto": "Bajo",
+    "direccion": [
+        {
+            "ciudad": "Medellin",
+            "codigo_postal": 35642,
+            "direccion": "Calle 132 con carrera 67",
+            "telefono": "8963829"
+        }
+    ]
+  },
+  {
+    "_id": 66,
+    "cant_sedes": 9,
+    "nombre": "El Trago Perdido",
+    "presupuesto": "Alto",
+    "direccion": [
+        {
+            "ciudad": "Santa Marta",
+            "codigo_postal": 56707,
+            "direccion": "Calle 11 con carrera 99",
+            "telefono": "1528510"
+        }
+    ]
+  },
+  {
+    "_id": 67,
+    "cant_sedes": 4,
+    "nombre": "El Refugio del Lobo",
+    "presupuesto": "Medio",
+    "direccion": [
+        {
+            "ciudad": "Barranquilla",
+            "codigo_postal": 22401,
+            "direccion": "Calle 116 con carrera 29",
+            "telefono": "2303200"
+        }
+    ]
+  },
+  {
+    "_id": 68,
+    "cant_sedes": 16,
+    "nombre": "La Espuma Dorada",
+    "presupuesto": "Medio",
+    "direccion": [
+        {
+            "ciudad": "Medellin",
+            "codigo_postal": 99401,
+            "direccion": "Calle 26 con carrera 16",
+            "telefono": "3547266"
+        }
+    ]
+  },
+  {
+    "_id": 69,
+    "cant_sedes": 2,
+    "nombre": "Vientos de Malbec",
+    "presupuesto": "Bajo",
+    "direccion": [
+        {
+            "ciudad": "Cali",
+            "codigo_postal": 69666,
+            "direccion": "Calle 145 con carrera 143",
+            "telefono": "8391150"
+        }
+    ]
+  },
+  {
+    "_id": 70,
+    "cant_sedes": 10,
+    "nombre": "La Caverna Verde",
+    "presupuesto": "Alto",
+    "direccion": [
+        {
+            "ciudad": "Bogota",
+            "codigo_postal": 23757,
+            "direccion": "Calle 78 con carrera 139",
+            "telefono": "8603781"
+        }
+    ]
+  },
+  {
+    "_id": 71,
+    "cant_sedes": 6,
+    "nombre": "Siete Copas",
+    "presupuesto": "Medio",
+    "direccion": [
+        {
+            "ciudad": "Barranquilla",
+            "codigo_postal": 11814,
+            "direccion": "Calle 100 con carrera 8",
+            "telefono": "2268513"
+        }
+    ]
+  },
+  {
+    "_id": 72,
+    "cant_sedes": 9,
+    "nombre": "El Espejo Azul",
+    "presupuesto": "Alto",
+    "direccion": [
+        {
+            "ciudad": "Bogota",
+            "codigo_postal": 66608,
+            "direccion": "Calle 89 con carrera 70",
+            "telefono": "7579748"
+        }
+    ]
+  },
+  {
+    "_id": 73,
+    "cant_sedes": 2,
+    "nombre": "Callejón del Whisky",
+    "presupuesto": "Bajo",
+    "direccion": [
+        {
+            "ciudad": "Medellin",
+            "codigo_postal": 12015,
+            "direccion": "Calle 20 con carrera 139",
+            "telefono": "3509807"
+        }
+    ]
+  },
+  {
+    "_id": 74,
+    "cant_sedes": 8,
+    "nombre": "La Luna Roja",
+    "presupuesto": "Alto",
+    "direccion": [
+        {
+            "ciudad": "Medellin",
+            "codigo_postal": 36286,
+            "direccion": "Calle 119 con carrera 91",
+            "telefono": "8740897"
+        }
+    ]
+  },
+  {
+    "_id": 75,
+    "cant_sedes": 6,
+    "nombre": "El Barril Errante",
+    "presupuesto": "Medio",
+    "direccion": [
+        {
+            "ciudad": "Medellin",
+            "codigo_postal": 66486,
+            "direccion": "Calle 88 con carrera 124",
+            "telefono": "6716748"
+        }
+    ]
+  },
+  {
+    "_id": 76,
+    "cant_sedes": 10,
+    "nombre": "Bruma y Brebajes",
+    "presupuesto": "Alto",
+    "direccion": [
+        {
+            "ciudad": "Cali",
+            "codigo_postal": 97157,
+            "direccion": "Calle 101 con carrera 11",
+            "telefono": "7498536"
+        }
+    ]
+  },
+  {
+    "_id": 77,
+    "cant_sedes": 1,
+    "nombre": "Cántaros y Canciones",
+    "presupuesto": "Bajo",
+    "direccion": [
+        {
+            "ciudad": "Medellin",
+            "codigo_postal": 65674,
+            "direccion": "Calle 58 con carrera 66",
+            "telefono": "2758033"
+        }
+    ]
+  },
+  {
+    "_id": 78,
+    "cant_sedes": 8,
+    "nombre": "La Daga y el Ron",
+    "presupuesto": "Alto",
+    "direccion": [
+        {
+            "ciudad": "Bogota",
+            "codigo_postal": 87729,
+            "direccion": "Calle 148 con carrera 17",
+            "telefono": "7152403"
+        }
+    ]
+  },
+  {
+    "_id": 79,
+    "cant_sedes": 8,
+    "nombre": "Sombras y Copas",
+    "presupuesto": "Alto",
+    "direccion": [
+        {
+            "ciudad": "Santa Marta",
+            "codigo_postal": 37809,
+            "direccion": "Calle 76 con carrera 72",
+            "telefono": "9391237"
+        }
+    ]
+  },
+  {
+    "_id": 80,
+    "cant_sedes": 6,
+    "nombre": "El Faro de los Sueños",
+    "presupuesto": "Medio",
+    "direccion": [
+        {
+            "ciudad": "Bogota",
+            "codigo_postal": 40515,
+            "direccion": "Calle 127 con carrera 64",
+            "telefono": "2139356"
+        }
+    ]
+  },
+  {
+    "_id": 81,
+    "cant_sedes": 9,
+    "nombre": "El Desvan del Gato",
+    "presupuesto": "Alto",
+    "direccion": [
+        {
+            "ciudad": "Bogota",
+            "codigo_postal": 93279,
+            "direccion": "Calle 107 con carrera 76",
+            "telefono": "3624285"
+        }
+    ]
+  },
+  {
+    "_id": 82,
+    "cant_sedes": 7,
+    "nombre": "Humo y Destilados",
+    "presupuesto": "Medio",
+    "direccion": [
+        {
+            "ciudad": "Bogota",
+            "codigo_postal": 58076,
+            "direccion": "Calle 115 con carrera 125",
+            "telefono": "8013436"
+        }
+    ]
+  }
+]
